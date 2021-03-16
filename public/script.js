@@ -28,6 +28,8 @@ async function loadData() {
 
       const trainingLabels = labels.splice(0, 400);
       const testLabels = labels;
+	  
+	  tf.util.shuffleCombo(training, trainingLabels);
 
       const trainingTensor = tf.tensor2d(training, [training.length, 9]);
       const trainingLabelsTensor = tf.tensor2d(trainingLabels, [
@@ -37,6 +39,14 @@ async function loadData() {
 
       const testTensor = tf.tensor2d(test, [test.length, 9]);
       const testLabelsTensor = tf.tensor2d(testLabels, [testLabels.length, 1]);
+
+	//console.log(trainingTensor.shape[0]);
+	  //indices = tf.range(start=0, limit=trainingTensor.shape[0], dtype=tf.int32);
+	  //console.log(indices);
+	  //shuffledIndices = tf.random.shuffle(indices);
+	  
+	  //shuffledTrainingTensor = tf.gather(trainingTensor, shuffledIndices);
+	  //shuffledTrainingLabelsTensor = tf.gather(trainingLabelsTensor, shuffledIndices);
 
       model = await trainModel(
         trainingTensor,
@@ -64,13 +74,14 @@ async function loadData() {
 async function trainModel(training, trainingLabels, test, testLabels) {
   const model = tf.sequential();
   const learningRate = 0.03;
-  const epochs = 50;
+  const epochs = 200;
   const optimizer = tf.train.adam(learningRate);
 
   model.add(
     tf.layers.dense({ units: 10, activation: "sigmoid", inputShape: [9] })
   );
-  model.add(tf.layers.dense({ units: 10, activation: "sigmoid" }));
+  
+  model.add(tf.layers.dense({ units: 2, activation: "sigmoid" }));
 
   model.compile({
     optimizer: optimizer,
@@ -78,15 +89,14 @@ async function trainModel(training, trainingLabels, test, testLabels) {
     metrics: ["accuracy"],
   });
 
-  const history = await model
-    .fit(training, trainingLabels, {
-      epochs: epochs,
-      validationData: [test, testLabels],
-      callbacks: {
-        onEpochEnd: async (epoch, logs) => {
-          console.log("Epoch: " + epoch + " Logs: " + logs.acc);
-          await tf.nextFrame();
-        },
+  model.summary();
+  const history = await model.fit(training, trainingLabels, {
+    epochs: epochs,
+    validationData: [test, testLabels],
+    callbacks: {
+      onEpochEnd: async (epoch, logs) => {
+        console.log("Epoch: " + epoch + "Logs: " + logs.acc);
+        await tf.nextFrame();
       },
     })
     .then((info) => {
