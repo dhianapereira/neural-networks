@@ -1,6 +1,5 @@
 [
   {
-    "id": 1000025,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -9,11 +8,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 798429,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -22,11 +19,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 704097,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -35,11 +30,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 810104,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -48,11 +41,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 814265,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -61,11 +52,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 814911,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -74,11 +63,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 826923,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -87,11 +74,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 830690,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -100,11 +85,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 831268,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -113,11 +96,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 836433,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -126,11 +107,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 837082,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -139,11 +118,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 846832,
     "clumpThickness": 3,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 5,
@@ -152,11 +129,9 @@
     "bareNuclei": 3,
     "blandChromatin": 4,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 855524,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -165,11 +140,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 857774,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -178,11 +151,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 888169,
     "clumpThickness": 3,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -191,11 +162,9 @@
     "bareNuclei": 3,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 888523,
     "clumpThickness": 4,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -204,11 +173,9 @@
     "bareNuclei": 3,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 896404,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -217,11 +184,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 897172,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -230,11 +195,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 342245,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -243,11 +206,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 428598,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -256,11 +217,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 492561,
     "clumpThickness": 4,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -269,11 +228,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 493452,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -282,11 +239,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 493452,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -295,11 +250,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 521441,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -308,11 +261,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 560680,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -321,11 +272,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 636437,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -334,11 +283,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 640712,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -347,11 +294,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 654244,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -360,11 +305,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 657753,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -373,11 +316,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 685977,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -386,11 +327,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 805448,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -399,11 +338,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1002504,
     "clumpThickness": 3,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -412,11 +349,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1022257,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -425,11 +360,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1026122,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -438,11 +371,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1071084,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -451,11 +382,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 2,
-    "mitoses": 3,
-    "class": 2
+    "mitoses": 3
   },
   {
-    "id": 1114570,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -464,11 +393,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1114570,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -477,11 +404,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1116715,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -490,11 +415,9 @@
     "bareNuclei": 2,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1131411,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -503,11 +426,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1156017,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -516,11 +437,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1158247,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -529,11 +448,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1158405,
     "clumpThickness": 1,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 3,
@@ -542,11 +459,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1168278,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -555,11 +470,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1176187,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -568,11 +481,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1196263,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -581,11 +492,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1196475,
     "clumpThickness": 3,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 1,
@@ -594,11 +503,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1206314,
     "clumpThickness": 1,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 3,
@@ -607,11 +514,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1180523,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -620,11 +525,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1180831,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -633,11 +536,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1181356,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -646,11 +547,9 @@
     "bareNuclei": 2,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1182404,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -659,11 +558,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1182410,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -672,11 +569,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1183240,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -685,11 +580,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1183516,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -698,11 +591,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1183911,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -711,11 +602,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1213784,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -724,11 +613,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1223003,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -737,11 +624,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1223306,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -750,11 +635,9 @@
     "bareNuclei": 4,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1223543,
     "clumpThickness": 1,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 1,
@@ -763,11 +646,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1229929,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -776,11 +657,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1231853,
     "clumpThickness": 4,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -789,11 +668,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1234554,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -802,11 +679,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1236837,
     "clumpThickness": 2,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -815,11 +690,9 @@
     "bareNuclei": 2,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1237674,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -828,11 +701,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1238021,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -841,11 +712,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1238915,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -854,11 +723,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1239232,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -867,11 +734,9 @@
     "bareNuclei": 3,
     "blandChromatin": 3,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1239967,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -880,11 +745,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1240337,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -893,11 +756,9 @@
     "bareNuclei": 2,
     "blandChromatin": 3,
     "normalNucleoli": 2,
-    "mitoses": 2,
-    "class": 2
+    "mitoses": 2
   },
   {
-    "id": 1253505,
     "clumpThickness": 2,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -906,11 +767,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1255384,
     "clumpThickness": 3,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -919,11 +778,9 @@
     "bareNuclei": 3,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1257648,
     "clumpThickness": 4,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -932,11 +789,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1257815,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -945,11 +800,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1257938,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -958,11 +811,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1258556,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 6,
@@ -971,11 +822,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1272039,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -984,11 +833,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1276091,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -997,11 +844,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1276091,
     "clumpThickness": 1,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -1010,11 +855,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1276091,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1023,11 +866,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1277629,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1036,11 +877,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1293439,
     "clumpThickness": 3,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -1049,11 +888,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1293439,
     "clumpThickness": 6,
     "uniformityOfCellSize": 9,
     "uniformityOfCellShape": 7,
@@ -1062,11 +899,9 @@
     "bareNuclei": 8,
     "blandChromatin": 4,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 527337,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1075,11 +910,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 558538,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -1088,11 +921,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 566509,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1101,11 +932,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 677910,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -1114,11 +943,9 @@
     "bareNuclei": 4,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 734111,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1127,11 +954,9 @@
     "bareNuclei": 3,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 734111,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1140,11 +965,9 @@
     "bareNuclei": 2,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 780555,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1153,11 +976,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 827627,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1166,11 +987,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1049837,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1179,11 +998,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1058849,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1192,11 +1009,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1182404,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1205,11 +1020,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1201870,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1218,11 +1031,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1202253,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1231,11 +1042,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1227081,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1244,11 +1053,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1171710,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1257,11 +1064,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1167471,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1270,11 +1075,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1171795,
     "clumpThickness": 1,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -1283,11 +1086,9 @@
     "bareNuclei": 2,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 2,
-    "class": 2
+    "mitoses": 2
   },
   {
-    "id": 1238410,
     "clumpThickness": 2,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -1296,11 +1097,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1266124,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1309,11 +1108,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1267898,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -1322,11 +1119,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1268313,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1335,11 +1130,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1268804,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1348,11 +1141,9 @@
     "bareNuclei": 5,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1276091,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1361,11 +1152,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1280258,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1374,11 +1163,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1293966,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1387,11 +1174,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1105524,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1400,11 +1185,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1181685,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1413,11 +1196,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1211594,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1426,11 +1207,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1238777,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1439,11 +1218,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1257608,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1452,11 +1229,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1269574,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1465,11 +1240,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1277145,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1478,11 +1251,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1287282,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1491,11 +1262,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1296025,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1504,11 +1273,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1296263,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1517,11 +1284,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1296593,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 1,
@@ -1530,11 +1295,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1301945,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1543,11 +1306,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1302428,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -1556,11 +1317,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 787451,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1569,11 +1328,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1002025,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1582,11 +1339,9 @@
     "bareNuclei": 3,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1070522,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1595,11 +1350,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1115293,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1608,11 +1361,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1133991,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1621,11 +1372,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1155967,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1634,11 +1383,9 @@
     "bareNuclei": 5,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1170945,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1647,11 +1394,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1181567,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1660,11 +1405,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1182404,
     "clumpThickness": 4,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 1,
@@ -1673,11 +1416,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1204558,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1686,11 +1427,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1217952,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1699,11 +1438,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1224565,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1712,11 +1449,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1238186,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1725,11 +1460,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1253917,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1738,11 +1471,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1265899,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1751,11 +1482,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1268766,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1764,11 +1493,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1277268,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -1777,11 +1504,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1295508,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1790,11 +1515,9 @@
     "bareNuclei": 4,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1297327,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1803,11 +1526,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1297522,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1816,11 +1537,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1298360,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1829,11 +1548,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1299924,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1842,11 +1559,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1299994,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1855,11 +1570,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1304595,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1868,11 +1581,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1320077,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1881,11 +1592,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1320077,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1894,11 +1603,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1320304,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -1907,11 +1614,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 333093,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1920,11 +1625,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 369565,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1933,11 +1636,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 749653,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1946,11 +1647,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 769612,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1959,11 +1658,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 769612,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1972,11 +1669,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 798429,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -1985,11 +1680,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 807657,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -1998,11 +1691,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 8233704,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2011,11 +1702,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 867392,
     "clumpThickness": 4,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -2024,11 +1713,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 869828,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2037,11 +1724,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1212232,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2050,11 +1735,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1212251,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2063,11 +1746,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1212422,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2076,11 +1757,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1212422,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2089,11 +1768,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1213375,
     "clumpThickness": 8,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -2102,11 +1779,9 @@
     "bareNuclei": 7,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 2,
-    "class": 2
+    "mitoses": 2
   },
   {
-    "id": 1213383,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2115,11 +1790,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1214092,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2128,11 +1801,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1214556,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2141,11 +1812,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1043068,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2154,11 +1823,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1056171,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2167,11 +1834,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1061990,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -2180,11 +1845,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1113061,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2193,11 +1856,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1116192,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -2206,11 +1867,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1135090,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2219,11 +1878,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1145420,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2232,11 +1889,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1158157,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2245,11 +1900,9 @@
     "bareNuclei": 2,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1171578,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2258,11 +1911,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1174841,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -2271,11 +1922,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1227244,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2284,11 +1933,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1228311,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2297,11 +1944,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1231706,
     "clumpThickness": 8,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -2310,11 +1955,9 @@
     "bareNuclei": 1,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1236043,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -2323,11 +1966,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1270479,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -2336,11 +1977,9 @@
     "bareNuclei": 2,
     "blandChromatin": 2,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1276091,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2349,11 +1988,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1277018,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2362,11 +1999,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 128059,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2375,11 +2010,9 @@
     "bareNuclei": 5,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1285531,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2388,11 +2021,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1287775,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2401,11 +2032,9 @@
     "bareNuclei": 2,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 167528,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2414,11 +2043,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 183913,
     "clumpThickness": 1,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -2427,11 +2054,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1184586,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2440,11 +2065,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1186936,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -2453,11 +2076,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1197527,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2466,11 +2087,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1240603,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2479,11 +2098,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1240603,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2492,11 +2109,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1287971,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2505,11 +2120,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1289391,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2518,11 +2131,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1299924,
     "clumpThickness": 3,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -2531,11 +2142,9 @@
     "bareNuclei": 1,
     "blandChromatin": 4,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1306339,
     "clumpThickness": 4,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 2,
@@ -2544,11 +2153,9 @@
     "bareNuclei": 5,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 2,
-    "class": 2
+    "mitoses": 2
   },
   {
-    "id": 666942,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2557,11 +2164,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 673637,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2570,11 +2175,9 @@
     "bareNuclei": 5,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 684955,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2583,11 +2186,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 688033,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2596,11 +2197,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1197993,
     "clumpThickness": 5,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 7,
@@ -2609,11 +2208,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1198128,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 10,
@@ -2622,11 +2219,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1200847,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2635,11 +2230,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1200892,
     "clumpThickness": 8,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 5,
@@ -2648,11 +2241,9 @@
     "bareNuclei": 10,
     "blandChromatin": 6,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1200952,
     "clumpThickness": 5,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -2661,11 +2252,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1201936,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2674,11 +2263,9 @@
     "bareNuclei": 1,
     "blandChromatin": 5,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1202812,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -2687,11 +2274,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1205138,
     "clumpThickness": 5,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -2700,11 +2285,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1205579,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 6,
@@ -2713,11 +2296,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1206695,
     "clumpThickness": 1,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 8,
@@ -2726,11 +2307,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1206841,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 6,
@@ -2739,11 +2318,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 7,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1207986,
     "clumpThickness": 5,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 4,
@@ -2752,11 +2329,9 @@
     "bareNuclei": 8,
     "blandChromatin": 9,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1210963,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2765,11 +2340,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1211202,
     "clumpThickness": 7,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 10,
@@ -2778,11 +2351,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1214966,
     "clumpThickness": 9,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 7,
@@ -2791,11 +2362,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1216694,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -2804,11 +2373,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1218105,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2817,11 +2384,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 5,
-    "class": 4
+    "mitoses": 5
   },
   {
-    "id": 1218741,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 9,
@@ -2830,11 +2395,9 @@
     "bareNuclei": 5,
     "blandChromatin": 3,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1219525,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2843,11 +2406,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 6,
-    "class": 4
+    "mitoses": 6
   },
   {
-    "id": 1219859,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 8,
@@ -2856,11 +2417,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1221863,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2869,11 +2428,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1222047,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2882,11 +2439,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1222936,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 8,
@@ -2895,11 +2450,9 @@
     "bareNuclei": 5,
     "blandChromatin": 5,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1223793,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 7,
@@ -2908,11 +2461,9 @@
     "bareNuclei": 4,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1225799,
     "clumpThickness": 10,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 4,
@@ -2921,11 +2472,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1226012,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -2934,11 +2483,9 @@
     "bareNuclei": 5,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1226612,
     "clumpThickness": 7,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 6,
@@ -2947,11 +2494,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1227210,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -2960,11 +2505,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 9,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 144888,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -2973,11 +2516,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 145447,
     "clumpThickness": 8,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -2986,11 +2527,9 @@
     "bareNuclei": 9,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 191250,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -2999,11 +2538,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1100524,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3012,11 +2549,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1116116,
     "clumpThickness": 9,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3025,11 +2560,9 @@
     "bareNuclei": 8,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1168736,
     "clumpThickness": 5,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -3038,11 +2571,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 255644,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 8,
@@ -3051,11 +2582,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 263538,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3064,11 +2593,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 6,
-    "mitoses": 5,
-    "class": 4
+    "mitoses": 5
   },
   {
-    "id": 274137,
     "clumpThickness": 8,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 9,
@@ -3077,11 +2604,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 303213,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -3090,11 +2615,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 314428,
     "clumpThickness": 7,
     "uniformityOfCellSize": 9,
     "uniformityOfCellShape": 4,
@@ -3103,11 +2626,9 @@
     "bareNuclei": 3,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1198641,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 6,
@@ -3116,11 +2637,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 320675,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -3129,11 +2648,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 324427,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -3142,11 +2659,9 @@
     "bareNuclei": 4,
     "blandChromatin": 8,
     "normalNucleoli": 7,
-    "mitoses": 8,
-    "class": 4
+    "mitoses": 8
   },
   {
-    "id": 390840,
     "clumpThickness": 8,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 7,
@@ -3155,11 +2670,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 9,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 320675,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -3168,11 +2681,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 428903,
     "clumpThickness": 7,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 4,
@@ -3181,11 +2692,9 @@
     "bareNuclei": 4,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 476903,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 7,
@@ -3194,11 +2703,9 @@
     "bareNuclei": 7,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 8,
-    "class": 4
+    "mitoses": 8
   },
   {
-    "id": 488173,
     "clumpThickness": 1,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 3,
@@ -3207,11 +2714,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 492268,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -3220,11 +2725,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 508234,
     "clumpThickness": 7,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 5,
@@ -3233,11 +2736,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 8,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 527363,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3246,11 +2747,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 7,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 529329,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3259,11 +2758,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 543558,
     "clumpThickness": 6,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -3272,11 +2769,9 @@
     "bareNuclei": 5,
     "blandChromatin": 5,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 555977,
     "clumpThickness": 5,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -3285,11 +2780,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 601265,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -3298,11 +2791,9 @@
     "bareNuclei": 10,
     "blandChromatin": 2,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 606722,
     "clumpThickness": 5,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 7,
@@ -3311,11 +2802,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 63375,
     "clumpThickness": 9,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -3324,11 +2813,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 7,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 635844,
     "clumpThickness": 8,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 10,
@@ -3337,11 +2824,9 @@
     "bareNuclei": 4,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 640744,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3350,11 +2835,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 653777,
     "clumpThickness": 8,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -3363,11 +2846,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 659642,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 4,
@@ -3376,11 +2857,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 10,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 667204,
     "clumpThickness": 7,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -3389,11 +2868,9 @@
     "bareNuclei": 3,
     "blandChromatin": 8,
     "normalNucleoli": 8,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 691628,
     "clumpThickness": 8,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 4,
@@ -3402,11 +2879,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 706426,
     "clumpThickness": 5,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -3415,11 +2890,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 709287,
     "clumpThickness": 6,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -3428,11 +2901,9 @@
     "bareNuclei": 8,
     "blandChromatin": 8,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 730881,
     "clumpThickness": 7,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 3,
@@ -3441,11 +2912,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 4,
-    "mitoses": 6,
-    "class": 4
+    "mitoses": 6
   },
   {
-    "id": 733823,
     "clumpThickness": 5,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -3454,11 +2923,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 752904,
     "clumpThickness": 10,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -3467,11 +2934,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 760001,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 3,
@@ -3480,11 +2945,9 @@
     "bareNuclei": 4,
     "blandChromatin": 3,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 760239,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -3493,11 +2956,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 76389,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 7,
@@ -3506,11 +2967,9 @@
     "bareNuclei": 8,
     "blandChromatin": 6,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 785208,
     "clumpThickness": 5,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -3519,11 +2978,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 785615,
     "clumpThickness": 8,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 7,
@@ -3532,11 +2989,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 4,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 797327,
     "clumpThickness": 6,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -3545,11 +3000,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1350319,
     "clumpThickness": 5,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 4,
@@ -3558,11 +3011,9 @@
     "bareNuclei": 1,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1350423,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3571,11 +3022,9 @@
     "bareNuclei": 5,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1352848,
     "clumpThickness": 3,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 7,
@@ -3584,11 +3033,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1369821,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3597,11 +3044,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1371026,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3610,11 +3055,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 6,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 695091,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3623,11 +3066,9 @@
     "bareNuclei": 5,
     "blandChromatin": 4,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 888820,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3636,11 +3077,9 @@
     "bareNuclei": 3,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 897471,
     "clumpThickness": 4,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 6,
@@ -3649,11 +3088,9 @@
     "bareNuclei": 4,
     "blandChromatin": 10,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 897471,
     "clumpThickness": 4,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -3662,11 +3099,9 @@
     "bareNuclei": 5,
     "blandChromatin": 10,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1017122,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3675,11 +3110,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1041801,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -3688,11 +3121,9 @@
     "bareNuclei": 3,
     "blandChromatin": 4,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1044572,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 5,
@@ -3701,11 +3132,9 @@
     "bareNuclei": 9,
     "blandChromatin": 5,
     "normalNucleoli": 5,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1047630,
     "clumpThickness": 7,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -3714,11 +3143,9 @@
     "bareNuclei": 1,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1050670,
     "clumpThickness": 10,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 7,
@@ -3727,11 +3154,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1054590,
     "clumpThickness": 7,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -3740,11 +3165,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 4,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1054593,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -3753,11 +3176,9 @@
     "bareNuclei": 7,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1065726,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 3,
@@ -3766,11 +3187,9 @@
     "bareNuclei": 7,
     "blandChromatin": 3,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1072179,
     "clumpThickness": 10,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 7,
@@ -3779,11 +3198,9 @@
     "bareNuclei": 5,
     "blandChromatin": 7,
     "normalNucleoli": 4,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1080185,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3792,11 +3209,9 @@
     "bareNuclei": 1,
     "blandChromatin": 8,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1084584,
     "clumpThickness": 5,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -3805,11 +3220,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1091262,
     "clumpThickness": 2,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 3,
@@ -3818,11 +3231,9 @@
     "bareNuclei": 7,
     "blandChromatin": 7,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1099510,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 3,
@@ -3831,11 +3242,9 @@
     "bareNuclei": 3,
     "blandChromatin": 6,
     "normalNucleoli": 5,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1100524,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3844,11 +3253,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1102573,
     "clumpThickness": 5,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 5,
@@ -3857,11 +3264,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1103608,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3870,11 +3275,9 @@
     "bareNuclei": 1,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1105257,
     "clumpThickness": 3,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 7,
@@ -3883,11 +3286,9 @@
     "bareNuclei": 9,
     "blandChromatin": 4,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1106829,
     "clumpThickness": 7,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -3896,11 +3297,9 @@
     "bareNuclei": 8,
     "blandChromatin": 3,
     "normalNucleoli": 8,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1108370,
     "clumpThickness": 9,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 8,
@@ -3909,11 +3308,9 @@
     "bareNuclei": 3,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 5,
-    "class": 4
+    "mitoses": 5
   },
   {
-    "id": 1108449,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -3922,11 +3319,9 @@
     "bareNuclei": 4,
     "blandChromatin": 3,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1110102,
     "clumpThickness": 10,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 6,
@@ -3935,11 +3330,9 @@
     "bareNuclei": 5,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1110503,
     "clumpThickness": 5,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -3948,11 +3341,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 3,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1110524,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -3961,11 +3352,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1111249,
     "clumpThickness": 10,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -3974,11 +3363,9 @@
     "bareNuclei": 5,
     "blandChromatin": 3,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1112209,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -3987,11 +3374,9 @@
     "bareNuclei": 6,
     "blandChromatin": 3,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1113038,
     "clumpThickness": 8,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 4,
@@ -4000,11 +3385,9 @@
     "bareNuclei": 1,
     "blandChromatin": 5,
     "normalNucleoli": 4,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1113483,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 3,
@@ -4013,11 +3396,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1113906,
     "clumpThickness": 9,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -4026,11 +3407,9 @@
     "bareNuclei": 2,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1115282,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -4039,11 +3418,9 @@
     "bareNuclei": 3,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1116116,
     "clumpThickness": 9,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4052,11 +3429,9 @@
     "bareNuclei": 8,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1116132,
     "clumpThickness": 6,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -4065,11 +3440,9 @@
     "bareNuclei": 2,
     "blandChromatin": 3,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 557583,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4078,11 +3451,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 736150,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 3,
@@ -4091,11 +3462,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 803531,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4104,11 +3473,9 @@
     "bareNuclei": 2,
     "blandChromatin": 8,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 822829,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4117,11 +3484,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1190386,
     "clumpThickness": 4,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -4130,11 +3495,9 @@
     "bareNuclei": 6,
     "blandChromatin": 7,
     "normalNucleoli": 7,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1253955,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 4,
@@ -4143,11 +3506,9 @@
     "bareNuclei": 3,
     "blandChromatin": 5,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1268952,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 7,
@@ -4156,11 +3517,9 @@
     "bareNuclei": 1,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1227481,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 7,
@@ -4169,11 +3528,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1185609,
     "clumpThickness": 3,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 5,
@@ -4182,11 +3539,9 @@
     "bareNuclei": 8,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1187805,
     "clumpThickness": 8,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -4195,11 +3550,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1189266,
     "clumpThickness": 7,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 4,
@@ -4208,11 +3561,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 4,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1189286,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 8,
@@ -4221,11 +3572,9 @@
     "bareNuclei": 5,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1192325,
     "clumpThickness": 5,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -4234,11 +3583,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1196295,
     "clumpThickness": 9,
     "uniformityOfCellSize": 9,
     "uniformityOfCellShape": 10,
@@ -4247,11 +3594,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 6,
-    "class": 4
+    "mitoses": 6
   },
   {
-    "id": 1196915,
     "clumpThickness": 10,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 7,
@@ -4260,11 +3605,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 7,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1228152,
     "clumpThickness": 8,
     "uniformityOfCellSize": 9,
     "uniformityOfCellShape": 9,
@@ -4273,11 +3616,9 @@
     "bareNuclei": 5,
     "blandChromatin": 7,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1230175,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4286,11 +3627,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1230688,
     "clumpThickness": 7,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 7,
@@ -4299,11 +3638,9 @@
     "bareNuclei": 7,
     "blandChromatin": 7,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1231387,
     "clumpThickness": 6,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -4312,11 +3649,9 @@
     "bareNuclei": 8,
     "blandChromatin": 8,
     "normalNucleoli": 9,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1232225,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 5,
@@ -4325,11 +3660,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1241559,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -4338,11 +3671,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 8,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1241679,
     "clumpThickness": 9,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -4351,11 +3682,9 @@
     "bareNuclei": 2,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1242364,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4364,11 +3693,9 @@
     "bareNuclei": 9,
     "blandChromatin": 3,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1243256,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 3,
@@ -4377,11 +3704,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1331412,
     "clumpThickness": 5,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 10,
@@ -4390,11 +3715,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1343068,
     "clumpThickness": 8,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -4403,11 +3726,9 @@
     "bareNuclei": 10,
     "blandChromatin": 2,
     "normalNucleoli": 5,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1343374,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 8,
@@ -4416,11 +3737,9 @@
     "bareNuclei": 5,
     "blandChromatin": 10,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1344121,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 4,
@@ -4429,11 +3748,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 142932,
     "clumpThickness": 7,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 10,
@@ -4442,11 +3759,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1266154,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 8,
@@ -4455,11 +3770,9 @@
     "bareNuclei": 2,
     "blandChromatin": 5,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 378275,
     "clumpThickness": 10,
     "uniformityOfCellSize": 9,
     "uniformityOfCellShape": 7,
@@ -4468,11 +3781,9 @@
     "bareNuclei": 2,
     "blandChromatin": 7,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 878358,
     "clumpThickness": 5,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 10,
@@ -4481,11 +3792,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1107684,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 5,
@@ -4494,11 +3803,9 @@
     "bareNuclei": 10,
     "blandChromatin": 6,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1254538,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4507,11 +3814,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1268275,
     "clumpThickness": 9,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -4520,11 +3825,9 @@
     "bareNuclei": 3,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1294261,
     "clumpThickness": 4,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 8,
@@ -4533,11 +3836,9 @@
     "bareNuclei": 1,
     "blandChromatin": 10,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1295529,
     "clumpThickness": 2,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 7,
@@ -4546,11 +3847,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1298484,
     "clumpThickness": 10,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -4559,11 +3858,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1315506,
     "clumpThickness": 4,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 6,
@@ -4572,11 +3869,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1352663,
     "clumpThickness": 5,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -4585,11 +3880,9 @@
     "bareNuclei": 1,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 188336,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -4598,11 +3891,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 1,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 352431,
     "clumpThickness": 10,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 10,
@@ -4611,11 +3902,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1315807,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4624,11 +3913,9 @@
     "bareNuclei": 2,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1334015,
     "clumpThickness": 7,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -4637,11 +3924,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 2,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1294562,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 10,
@@ -4650,11 +3935,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1295186,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4663,11 +3946,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 608157,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 3,
@@ -4676,11 +3957,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1193544,
     "clumpThickness": 5,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 9,
@@ -4689,11 +3968,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1230994,
     "clumpThickness": 4,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -4702,11 +3979,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1246562,
     "clumpThickness": 10,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -4715,11 +3990,9 @@
     "bareNuclei": 6,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1257470,
     "clumpThickness": 10,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 5,
@@ -4728,11 +4001,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1259008,
     "clumpThickness": 8,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 9,
@@ -4741,11 +4012,9 @@
     "bareNuclei": 3,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1296572,
     "clumpThickness": 10,
     "uniformityOfCellSize": 9,
     "uniformityOfCellShape": 8,
@@ -4754,11 +4023,9 @@
     "bareNuclei": 4,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1298416,
     "clumpThickness": 10,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -4767,11 +4034,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1299596,
     "clumpThickness": 6,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -4780,11 +4045,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 6,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1238633,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4793,11 +4056,9 @@
     "bareNuclei": 4,
     "blandChromatin": 8,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1238948,
     "clumpThickness": 8,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 6,
@@ -4806,11 +4067,9 @@
     "bareNuclei": 10,
     "blandChromatin": 6,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1239347,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 8,
@@ -4819,11 +4078,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1257200,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4832,11 +4089,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1258549,
     "clumpThickness": 9,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4845,11 +4100,9 @@
     "bareNuclei": 10,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1299161,
     "clumpThickness": 4,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -4858,11 +4111,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1318169,
     "clumpThickness": 9,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4871,11 +4122,9 @@
     "bareNuclei": 5,
     "blandChromatin": 10,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 474162,
     "clumpThickness": 8,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 8,
@@ -4884,11 +4133,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1073960,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4897,11 +4144,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 1,
-    "mitoses": 5,
-    "class": 4
+    "mitoses": 5
   },
   {
-    "id": 1076352,
     "clumpThickness": 3,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 4,
@@ -4910,11 +4155,9 @@
     "bareNuclei": 3,
     "blandChromatin": 3,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1084139,
     "clumpThickness": 6,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 2,
@@ -4923,11 +4166,9 @@
     "bareNuclei": 4,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1119189,
     "clumpThickness": 5,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 9,
@@ -4936,11 +4177,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1142706,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4949,11 +4188,9 @@
     "bareNuclei": 10,
     "blandChromatin": 6,
     "normalNucleoli": 5,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1286943,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -4962,11 +4199,9 @@
     "bareNuclei": 5,
     "blandChromatin": 4,
     "normalNucleoli": 8,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1306282,
     "clumpThickness": 6,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 7,
@@ -4975,11 +4210,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1313325,
     "clumpThickness": 4,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 4,
@@ -4988,11 +4221,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1330439,
     "clumpThickness": 4,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 8,
@@ -5001,11 +4232,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 412300,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 5,
@@ -5014,11 +4243,9 @@
     "bareNuclei": 5,
     "blandChromatin": 7,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 672113,
     "clumpThickness": 7,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 6,
@@ -5027,11 +4254,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 837480,
     "clumpThickness": 7,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -5040,11 +4265,9 @@
     "bareNuclei": 10,
     "blandChromatin": 6,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1222464,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -5053,11 +4276,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1241035,
     "clumpThickness": 7,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 3,
@@ -5066,11 +4287,9 @@
     "bareNuclei": 5,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1116998,
     "clumpThickness": 10,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 2,
@@ -5079,11 +4298,9 @@
     "bareNuclei": 2,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1118039,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -5092,11 +4309,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1120559,
     "clumpThickness": 8,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 8,
@@ -5105,11 +4320,9 @@
     "bareNuclei": 9,
     "blandChromatin": 8,
     "normalNucleoli": 9,
-    "mitoses": 8,
-    "class": 4
+    "mitoses": 8
   },
   {
-    "id": 1123061,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 2,
@@ -5118,11 +4331,9 @@
     "bareNuclei": 2,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1125035,
     "clumpThickness": 9,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 5,
@@ -5131,11 +4342,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1126417,
     "clumpThickness": 10,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 4,
@@ -5144,11 +4353,9 @@
     "bareNuclei": 4,
     "blandChromatin": 3,
     "normalNucleoli": 2,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1147699,
     "clumpThickness": 3,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 7,
@@ -5157,11 +4364,9 @@
     "bareNuclei": 9,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1147748,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 6,
@@ -5170,11 +4375,9 @@
     "bareNuclei": 4,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1148278,
     "clumpThickness": 3,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 6,
@@ -5183,11 +4386,9 @@
     "bareNuclei": 8,
     "blandChromatin": 4,
     "normalNucleoli": 4,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1313658,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5196,11 +4397,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1313982,
     "clumpThickness": 4,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -5209,11 +4408,9 @@
     "bareNuclei": 1,
     "blandChromatin": 4,
     "normalNucleoli": 8,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1131294,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5222,11 +4419,9 @@
     "bareNuclei": 2,
     "blandChromatin": 4,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1132347,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 4,
@@ -5235,11 +4430,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1133041,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -5248,11 +4441,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1133136,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5261,11 +4452,9 @@
     "bareNuclei": 3,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1136142,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5274,11 +4463,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1137156,
     "clumpThickness": 2,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -5287,11 +4474,9 @@
     "bareNuclei": 1,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1143978,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5300,11 +4485,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1143978,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 1,
@@ -5313,11 +4496,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1147044,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5326,11 +4507,9 @@
     "bareNuclei": 2,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1321264,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 2,
@@ -5339,11 +4518,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1321321,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5352,11 +4529,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1321348,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5365,11 +4540,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1321931,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5378,11 +4551,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1321942,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5391,11 +4562,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1321942,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5404,11 +4573,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1328331,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5417,11 +4584,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1328755,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5430,11 +4595,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1331405,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5443,11 +4606,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1333104,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5456,11 +4617,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1334071,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5469,11 +4628,9 @@
     "bareNuclei": 3,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 183936,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5482,11 +4639,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 324382,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5495,11 +4650,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 385103,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5508,11 +4661,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 690557,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5521,11 +4672,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 695091,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5534,11 +4683,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 695219,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5547,11 +4694,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 824249,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5560,11 +4705,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 871549,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5573,11 +4716,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1115762,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5586,11 +4727,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1217717,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5599,11 +4738,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1239420,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5612,11 +4749,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1261751,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5625,11 +4760,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 2,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1272166,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5638,11 +4771,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1311875,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5651,11 +4782,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1320141,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5664,11 +4793,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1325309,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5677,11 +4804,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1333063,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -5690,11 +4815,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1333495,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5703,11 +4826,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1334659,
     "clumpThickness": 5,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 4,
@@ -5716,11 +4837,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1336798,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5729,11 +4848,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1344449,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5742,11 +4859,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1350568,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5755,11 +4870,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 353098,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5768,11 +4881,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 411453,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5781,11 +4892,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 636375,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5794,11 +4903,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1016634,
     "clumpThickness": 2,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 1,
@@ -5807,11 +4914,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1031608,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5820,11 +4925,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1041043,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -5833,11 +4936,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1042252,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5846,11 +4947,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1061990,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5859,11 +4958,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1073836,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5872,11 +4969,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1083817,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5885,11 +4980,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1096352,
     "clumpThickness": 6,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -5898,11 +4991,9 @@
     "bareNuclei": 2,
     "blandChromatin": 6,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1140597,
     "clumpThickness": 7,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 2,
@@ -5911,11 +5002,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1149548,
     "clumpThickness": 1,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5924,11 +5013,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1174009,
     "clumpThickness": 5,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5937,11 +5024,9 @@
     "bareNuclei": 1,
     "blandChromatin": 2,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1183596,
     "clumpThickness": 3,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 3,
@@ -5950,11 +5035,9 @@
     "bareNuclei": 4,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1190546,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5963,11 +5046,9 @@
     "bareNuclei": 5,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1213273,
     "clumpThickness": 2,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5976,11 +5057,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1218982,
     "clumpThickness": 4,
     "uniformityOfCellSize": 1,
     "uniformityOfCellShape": 1,
@@ -5989,11 +5068,9 @@
     "bareNuclei": 1,
     "blandChromatin": 1,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 2
+    "mitoses": 1
   },
   {
-    "id": 1148873,
     "clumpThickness": 3,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -6002,11 +5079,9 @@
     "bareNuclei": 10,
     "blandChromatin": 6,
     "normalNucleoli": 8,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1165926,
     "clumpThickness": 9,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 9,
@@ -6015,11 +5090,9 @@
     "bareNuclei": 6,
     "blandChromatin": 2,
     "normalNucleoli": 9,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 1166630,
     "clumpThickness": 7,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 6,
@@ -6028,11 +5101,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 9,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1166654,
     "clumpThickness": 10,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -6041,11 +5112,9 @@
     "bareNuclei": 5,
     "blandChromatin": 3,
     "normalNucleoli": 10,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1167439,
     "clumpThickness": 2,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -6054,11 +5123,9 @@
     "bareNuclei": 5,
     "blandChromatin": 2,
     "normalNucleoli": 5,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1168359,
     "clumpThickness": 8,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 3,
@@ -6067,11 +5134,9 @@
     "bareNuclei": 3,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1168736,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6080,11 +5145,9 @@
     "bareNuclei": 1,
     "blandChromatin": 8,
     "normalNucleoli": 8,
-    "mitoses": 8,
-    "class": 4
+    "mitoses": 8
   },
   {
-    "id": 1169049,
     "clumpThickness": 7,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 4,
@@ -6093,11 +5156,9 @@
     "bareNuclei": 3,
     "blandChromatin": 3,
     "normalNucleoli": 2,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 1170419,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6106,11 +5167,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1170420,
     "clumpThickness": 1,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 8,
@@ -6119,11 +5178,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 7,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1171710,
     "clumpThickness": 6,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 4,
@@ -6132,11 +5189,9 @@
     "bareNuclei": 9,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1171845,
     "clumpThickness": 8,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 4,
@@ -6145,11 +5200,9 @@
     "bareNuclei": 9,
     "blandChromatin": 3,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1172152,
     "clumpThickness": 10,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -6158,11 +5211,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1173216,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6171,11 +5222,9 @@
     "bareNuclei": 8,
     "blandChromatin": 8,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1173509,
     "clumpThickness": 4,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -6184,11 +5233,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 5,
-    "mitoses": 8,
-    "class": 4
+    "mitoses": 8
   },
   {
-    "id": 1174131,
     "clumpThickness": 10,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6197,11 +5244,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1174428,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -6210,11 +5255,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1175937,
     "clumpThickness": 5,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 6,
@@ -6223,11 +5266,9 @@
     "bareNuclei": 7,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1176881,
     "clumpThickness": 7,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 3,
@@ -6236,11 +5277,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 5,
-    "mitoses": 5,
-    "class": 4
+    "mitoses": 5
   },
   {
-    "id": 1177399,
     "clumpThickness": 8,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -6249,11 +5288,9 @@
     "bareNuclei": 10,
     "blandChromatin": 1,
     "normalNucleoli": 6,
-    "mitoses": 2,
-    "class": 4
+    "mitoses": 2
   },
   {
-    "id": 1180194,
     "clumpThickness": 5,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 8,
@@ -6262,11 +5299,9 @@
     "bareNuclei": 10,
     "blandChromatin": 3,
     "normalNucleoli": 6,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 1183983,
     "clumpThickness": 9,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -6275,11 +5310,9 @@
     "bareNuclei": 5,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 806423,
     "clumpThickness": 8,
     "uniformityOfCellSize": 5,
     "uniformityOfCellShape": 5,
@@ -6288,11 +5321,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 809912,
     "clumpThickness": 10,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -6301,11 +5332,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 822829,
     "clumpThickness": 7,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 4,
@@ -6314,11 +5343,9 @@
     "bareNuclei": 10,
     "blandChromatin": 9,
     "normalNucleoli": 5,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 832226,
     "clumpThickness": 3,
     "uniformityOfCellSize": 4,
     "uniformityOfCellShape": 4,
@@ -6327,11 +5354,9 @@
     "bareNuclei": 1,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 832567,
     "clumpThickness": 4,
     "uniformityOfCellSize": 2,
     "uniformityOfCellShape": 3,
@@ -6340,11 +5365,9 @@
     "bareNuclei": 8,
     "blandChromatin": 7,
     "normalNucleoli": 6,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 850831,
     "clumpThickness": 2,
     "uniformityOfCellSize": 7,
     "uniformityOfCellShape": 10,
@@ -6353,11 +5376,9 @@
     "bareNuclei": 10,
     "blandChromatin": 4,
     "normalNucleoli": 9,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 859164,
     "clumpThickness": 5,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 3,
@@ -6366,11 +5387,9 @@
     "bareNuclei": 3,
     "blandChromatin": 3,
     "normalNucleoli": 3,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 859350,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6379,11 +5398,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 3,
-    "mitoses": 8,
-    "class": 4
+    "mitoses": 8
   },
   {
-    "id": 866325,
     "clumpThickness": 8,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 5,
@@ -6392,11 +5409,9 @@
     "bareNuclei": 4,
     "blandChromatin": 4,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 873549,
     "clumpThickness": 10,
     "uniformityOfCellSize": 3,
     "uniformityOfCellShape": 5,
@@ -6405,11 +5420,9 @@
     "bareNuclei": 7,
     "blandChromatin": 3,
     "normalNucleoli": 5,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 877291,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6418,11 +5431,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 10,
-    "class": 4
+    "mitoses": 10
   },
   {
-    "id": 877943,
     "clumpThickness": 3,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 3,
@@ -6431,11 +5442,9 @@
     "bareNuclei": 10,
     "blandChromatin": 5,
     "normalNucleoli": 1,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 95719,
     "clumpThickness": 6,
     "uniformityOfCellSize": 10,
     "uniformityOfCellShape": 10,
@@ -6444,11 +5453,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 10,
-    "mitoses": 7,
-    "class": 4
+    "mitoses": 7
   },
   {
-    "id": 160296,
     "clumpThickness": 5,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 8,
@@ -6457,11 +5464,9 @@
     "bareNuclei": 10,
     "blandChromatin": 8,
     "normalNucleoli": 10,
-    "mitoses": 3,
-    "class": 4
+    "mitoses": 3
   },
   {
-    "id": 846423,
     "clumpThickness": 10,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 3,
@@ -6470,11 +5475,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 8,
-    "mitoses": 4,
-    "class": 4
+    "mitoses": 4
   },
   {
-    "id": 1080233,
     "clumpThickness": 7,
     "uniformityOfCellSize": 6,
     "uniformityOfCellShape": 6,
@@ -6483,11 +5486,9 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 1,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   },
   {
-    "id": 1151734,
     "clumpThickness": 10,
     "uniformityOfCellSize": 8,
     "uniformityOfCellShape": 7,
@@ -6496,7 +5497,6 @@
     "bareNuclei": 10,
     "blandChromatin": 7,
     "normalNucleoli": 9,
-    "mitoses": 1,
-    "class": 4
+    "mitoses": 1
   }
 ]
