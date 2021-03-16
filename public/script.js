@@ -24,19 +24,14 @@ async function loadData() {
       var labels = json;
 
       const training = result.splice(0, 400);
-      console.log(training);
-
       const test = result;
-      console.log(test);
 
       const trainingLabels = labels.splice(0, 400);
       const testLabels = labels;
 
       const trainingTensor = tf.tensor2d(training, [training.length, 9]);
-      const trainingLabelsTensor = tf.tensor2d(trainingLabels, [
-        trainingLabels.length,
-        1,
-      ]);
+      const trainingLabelsTensor = tf.tensor2d(trainingLabels, [trainingLabels.length, 1]);
+	  
       const testTensor = tf.tensor2d(test, [test.length, 9]);
       const testLabelsTensor = tf.tensor2d(testLabels, [testLabels.length, 1]);
 
@@ -47,7 +42,7 @@ async function loadData() {
         testLabelsTensor
       );
 
-      const input = tf.tensor2d(test, [test.length, 9]);
+      const input = tf.tensor(test, [test.length, 9]);
       const prediction = model.predict(input).argMax(-1).dataSync();
       alert(prediction);
     });
@@ -56,31 +51,36 @@ async function loadData() {
 
 async function trainModel(training, trainingLabels, test, testLabels) {
   const model = tf.sequential();
-  const learningRate = 0.01;
+  const learningRate = 0.03;
   const epochs = 50;
   const optimizer = tf.train.adam(learningRate);
 
+  console.log(training);
+  input_shape = training.shape;
+
   model.add(
-    tf.layers.dense({ units: 10, activation: "sigmoid", inputShape: [training.length, 9] })
+    tf.layers.dense({ units: 10, activation: "sigmoid", inputShape: [9,]})
   );
-  model.add(tf.layers.dense({ units: 2, activation: "softmax" }));
+  model.add(tf.layers.dense({ units: 10, activation: "sigmoid" }));
 
   model.compile({
     optimizer: optimizer,
-    loss: "categoricalCrossentropy",
+    loss: "sparseCategoricalCrossentropy",
     metrics: ["accuracy"],
   });
 
-  const history = await model.fit(tf.stack(training), trainingLabels, {
+  const history = await model.fit(training, trainingLabels, {
     epochs: epochs,
     validationData: [test, testLabels],
     callbacks: {
       onEpochEnd: async (epoch, logs) => {
-        console.log("Epoch: " + epoch + "Logs: " + logs.loss);
+        console.log("Epoch: " + epoch + "Logs: " + logs.acc);
         await tf.nextFrame();
       },
     },
-  });
+  }).then(info => {
+   console.log('Precisão final', info.history.acc);
+ });
 
   return model;
 }
