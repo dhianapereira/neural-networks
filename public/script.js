@@ -32,8 +32,11 @@ async function loadData() {
 	  tf.util.shuffleCombo(training, trainingLabels);
 
       const trainingTensor = tf.tensor2d(training, [training.length, 9]);
-      const trainingLabelsTensor = tf.tensor2d(trainingLabels, [trainingLabels.length, 1]);
-	  
+      const trainingLabelsTensor = tf.tensor2d(trainingLabels, [
+        trainingLabels.length,
+        1,
+      ]);
+
       const testTensor = tf.tensor2d(test, [test.length, 9]);
       const testLabelsTensor = tf.tensor2d(testLabels, [testLabels.length, 1]);
 
@@ -54,7 +57,16 @@ async function loadData() {
 
       const input = tf.tensor(test, [test.length, 9]);
       const prediction = model.predict(input).argMax(-1).dataSync();
-      alert(prediction);
+
+      let counter = 0;
+      for (let i = 0; i < prediction.length; i++) {
+        if (prediction[i] == testLabels[i]) {
+          counter++;
+        }
+      }
+
+      const percentage = (counter * 100) / testLabels.length;
+      console.log("Porcentagem de acerto:" + percentage + "%");
     });
   });
 }
@@ -65,11 +77,8 @@ async function trainModel(training, trainingLabels, test, testLabels) {
   const epochs = 200;
   const optimizer = tf.train.adam(learningRate);
 
-  console.log(training);
-  input_shape = training.shape;
-
   model.add(
-    tf.layers.dense({ units: 10, activation: "sigmoid", inputShape: [9,]})
+    tf.layers.dense({ units: 10, activation: "sigmoid", inputShape: [9] })
   );
   
   model.add(tf.layers.dense({ units: 2, activation: "sigmoid" }));
@@ -89,10 +98,10 @@ async function trainModel(training, trainingLabels, test, testLabels) {
         console.log("Epoch: " + epoch + "Logs: " + logs.acc);
         await tf.nextFrame();
       },
-    },
-  }).then(info => {
-   console.log('Precisão final', info.history.acc);
- });
+    })
+    .then((info) => {
+      console.log("Precisão final", info.history.acc);
+    });
 
   return model;
 }
