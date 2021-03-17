@@ -80,14 +80,14 @@ async function trainModel(training, trainingLabels, test, testLabels) {
     loss: "sparseCategoricalCrossentropy",
     metrics: ["accuracy"],
   });
-  const batchSize = 40;
+
   const history = await model.fit(training, trainingLabels, {
-    batchSize,
     epochs: epochs,
     shuffle: true,
+    validationData: [test, testLabels],
     callbacks: tfvis.show.fitCallbacks(
-      { name: 'Desempenho de treinamento' },
-      ['loss', 'mse'], 
+      { name: 'Desempenho de treinamento'},
+      ['loss','accuracy'], 
       { height: 200, callbacks: ['onEpochEnd'] }
     )
   }).then((info) => {
