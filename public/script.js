@@ -87,7 +87,7 @@ async function trainModel(training, trainingLabels, test, testLabels) {
     validationData: [test, testLabels],
     callbacks: tfvis.show.fitCallbacks(
       { name: 'Desempenho de treinamento'},
-      ['loss','accuracy'], 
+      ['loss','acc'], 
       { height: 200, callbacks: ['onEpochEnd'] }
     )
   }).then((info) => {
@@ -98,16 +98,3 @@ async function trainModel(training, trainingLabels, test, testLabels) {
 }
 
 document.addEventListener('DOMContentLoaded', loadData);
-
-/*
-const history = await model.fit(training, trainingLabels, {
-    epochs: epochs,
-    validationData: [test, testLabels],
-    callbacks: {
-      onEpochEnd: async (epoch, logs) => {
-        console.log("Epoch: " + epoch + " Logs: " + logs.acc);
-        await tf.nextFrame();
-      }
-    }
-  })
-*/
