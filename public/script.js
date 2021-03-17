@@ -80,8 +80,27 @@ async function trainModel(training, trainingLabels, test, testLabels) {
     loss: "sparseCategoricalCrossentropy",
     metrics: ["accuracy"],
   });
-
+  const batchSize = 40;
   const history = await model.fit(training, trainingLabels, {
+    batchSize,
+    epochs: epochs,
+    shuffle: true,
+    callbacks: tfvis.show.fitCallbacks(
+      { name: 'Desempenho de treinamento' },
+      ['loss', 'mse'], 
+      { height: 200, callbacks: ['onEpochEnd'] }
+    )
+  }).then((info) => {
+    console.log("Precisão final", info.history.acc);
+  });
+
+  return model;
+}
+
+document.addEventListener('DOMContentLoaded', loadData);
+
+/*
+const history = await model.fit(training, trainingLabels, {
     epochs: epochs,
     validationData: [test, testLabels],
     callbacks: {
@@ -90,11 +109,5 @@ async function trainModel(training, trainingLabels, test, testLabels) {
         await tf.nextFrame();
       }
     }
-  }).then((info) => {
-    console.log("Precisão final", info.history.acc);
-  });
-
-  return model;
-}
-
-loadData();
+  })
+*/
